@@ -1,3 +1,4 @@
+# 현재 Django 프로젝트의 환경 및 구성을 저장합니다
 """
 Django settings for mysite project.
 

@@ -1,3 +1,4 @@
+#manage.py: Django 프로젝트와 다양한 방법으로 상호작용 하는 커맨드라인의 유틸리티 입니다.
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os

@@ -1,3 +1,4 @@
+# 현재 Django project 의 URL 선언을 저장합니다. Django 로 작성된 사이트의 “목차” 라고 할 수 있습니다.
 """mysite URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
